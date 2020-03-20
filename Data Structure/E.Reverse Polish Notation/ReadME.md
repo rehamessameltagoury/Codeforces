@@ -1,4 +1,4 @@
-    # A. Reverse Polish Notation
+    # E. Reverse Polish Notation
                                        time limit per test5 seconds
                                     memory limit per test256 megabytes
 
